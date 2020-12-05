@@ -7,7 +7,7 @@ A library bundle, expected to grow over time.
   1. [Included classes](#included-classes)
   2. [Scheduler](#scheduler)
   3. [StdIO](#stdio)
-  4. [Documentation]https://github.com/NetworkAndSoftware/JMVW/wiki/JMVW-Arduino-Library-Bundle-Documentation.)
+  4. [Documentation](https://github.com/NetworkAndSoftware/JMVW/wiki/JMVW-Arduino-Library-Bundle-Documentation.)
    
 
 
