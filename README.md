@@ -1,6 +1,6 @@
 # JMVW Arduino library bundle
 
-A set of library classes, which will be expanded over time
+A library bundle, expected to grow over time.
 
 ## Included classes
 
