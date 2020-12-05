@@ -11,4 +11,4 @@ A set of library classes, which will be expanded over time
   A class for standard io functionality. Provides printf method to print to the serial port.
 
 
-Please see the [JMVW Documentation](https://github.com/NetworkAndSoftware/JMVW/wiki) for instructions on how to use it..
+Please take a look at the [JMVW Documentation](https://github.com/NetworkAndSoftware/JMVW/wiki)
