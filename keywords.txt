@@ -1,4 +1,6 @@
-MultiLoop	  KEYWORD1
-AddLoop     KEYWORD2
-delay       KEYWORD2
-RemoveLoop  KEYWORD2
+# Classes
+jmvw::Scheduler	  KEYWORD1
+jmvw::StdIO       KEYWORD1
+
+# Methods
+RemoveLoop        KEYWORD2
