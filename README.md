@@ -11,9 +11,4 @@ A set of library classes, which will be expanded over time
   A class for standard io functionality. Provides printf method to print to the serial port.
 
 
-## Usage
-
-First clone the library by downloading the zip file and unpacking it in your library directory.
-
-The library uses a C++ namespace to avoid name collisions with other libraries. The name of the namespace is jmvw. You will have to either preface all references to classes in this library bundle with jmvw::, or you can use a using statement at the start of your code.
-
+Please see the [JMVW Documentation](https://github.com/NetworkAndSoftware/JMVW/wiki) for instructions on how to use it..
