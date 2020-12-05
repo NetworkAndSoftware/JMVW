@@ -1,4 +1,3 @@
-
 // pull in the Scheduler class
 #include "Scheduler.h"
 
@@ -23,7 +22,7 @@ void Loop1()
 void Loop2()
 {
   DoSomethingElse();
-  delay(1000);
+  delay(1000); 
 }
 
 // do not include the normal loop() function
